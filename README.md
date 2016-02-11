@@ -11,7 +11,7 @@ If you're using GitHub Desktop, these general instructions will help:
 
 Enabling `Edit`->`Automatically Sync after Committing` is recommended. Here are the steps:
 
-1. Fork the repository for the exercise/project (found under [github.com/advanced-js](https://github.com/advanced-js)).
+1. Fork the repository for the exercise/project.
 1. Clone the repository to your computer.
 1. Modify the files to complete your solution.
 1. Make sure all of your code is committed.
